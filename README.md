@@ -1,10 +1,12 @@
 # Accessability_Improvement
 Project Title: Accessability_Improvment
 
-Description: The client has already created an html and css file for their Horiseon website. To properly adhere to ADA or in other words ,web accessibility for users with disabilities, the client has tasked the developer to apply certain criteria. With these criteria met, the website will be more user-friendly for everyone. All of this is done while also cleaning up the code for future developer to better navigatigation and future iterations.
+Description: The client has already created an html and css file for their Horiseon website. The code was properly taged, id'd and consolidated for future developers to better navigate with future iterations. All links were properly edited so that when clicked by the user it functions properly. With these criteria met, the website will be more user-friendly for everyone.
 
->Insert: illustration of the website here so that other web-devs can see what the webpage looks like right now.
-
-Url of the deployed application: 
+Photos of the Website:
+![Horiseon Header]C:\Users\Leels\Desktop\Workspace\Accessability_Improvement\assets\images\Screenshot (11).png
+![Webpage Content]C:\Users\Leels\Desktop\Workspace\Accessability_Improvement\assets\images\Screenshot (13).png
+![Webpage Footer]images\Screenshot (14).png
+Url of the deployed application: https://leelai064.github.io/Accessability_Improvement/
 
 URL of the Github repo: https://github.com/Leelai064/Accessability_Improvement.git

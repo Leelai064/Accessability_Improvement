@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #c9dcd6;
 }
-
+/* Changed div (non-semantic tag) to nav (semantic tag) for header content such as search optimization */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,7 +68,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Changed content from a class to an id  */
 #content {
     width: 75%;
     display: inline-block;
@@ -85,73 +85,31 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-#benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/* Consolidated all benefits tags including header 3 and images & Changed benefits from a class to an id */
+#benefit-lead,
+#benefit-brand,
 #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+#benefit-lead h3,
+#benefit-brand h3,
 #benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-#benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-#benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+#benefit-lead img,
+#benefit-brand img,
 #benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* Consolidated class tags */
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,34 +118,19 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+/* Consolidated class image tags */
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img{
     max-height: 200px;
 }
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+/* Consolidated class headers */
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 footer {
     padding: 30px;
     clear: both;
