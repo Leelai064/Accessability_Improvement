@@ -5,33 +5,6 @@ Description: The client has already created an html and css file for their Horis
 
 >Insert: illustration of the website here so that other web-devs can see what the webpage looks like right now.
 
->Insert: Url of the deployed application
+Url of the deployed application: 
 
->Insert: URL fof the Github repo
-Project status: 
-
- * Application's links all function correctly.
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-  * Application deployed at live URL.
-
-    * Application loads with no errors.
-
-    * Application GitHub URL submitted.
-    
-    * GitHub repository contains application code.
-
-    * Application resembles mock-up provided in the homework instructions (at least 90%).
-
-    * Repository has a unique name. DONE
-
-    * Repository follows best practices for file structure and naming conventions.
-
-    * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-    * Repository contains multiple descriptive commit messages.
-
-    * Repository contains quality README file with description, screenshot, and link to deployed application.
+URL of the Github repo: https://github.com/Leelai064/Accessability_Improvement.git
